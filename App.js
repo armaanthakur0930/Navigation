@@ -7,7 +7,6 @@ import Icon from 'react-native-vector-icons/Ionicons';
 const Tab = createBottomTabNavigator();
 const Drawer = createDrawerNavigator();
 
-// Placeholder components for screens
 const GetScreen = () => (
   <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
     <Text>GET Screen</Text>
